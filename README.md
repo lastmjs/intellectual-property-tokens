@@ -1,1 +1,1 @@
-# intellectual-property-tokens
+# IPTs (Intellectual Property Tokens)
