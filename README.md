@@ -1,1 +1,3 @@
-# IPTs (Intellectual Property Tokens)
+# Intellectual Property Tokens (IPTs)
+
+IPTs are a 
